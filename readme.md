@@ -11,3 +11,5 @@ A simple JavaScript application to confirm orders based on inventory availabilit
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
 3. Run `npm test` to run the tests.
+
+Read full article on [here](https://medium.com/@whiteboardprogrammer/test-driven-development-tdd-the-perfect-order-experiment-f3a5a44cdf80)
